@@ -1,0 +1,42 @@
+.cart-item{
+    background-color: #ffffff;
+    padding:10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #a09e9e;
+
+
+}
+.buttons-container{
+    width:100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.decrease-btn{
+    background-color: red;
+    border:none;
+    color:#ffffff;
+    height:30px;
+    width:30px;
+    font-size: 18px;
+    border-radius: 5px;
+
+}
+
+.increase-btn{
+    background-color: green;
+    border:none;
+    color:#ffffff;
+    height:30px;
+    width:30px;
+    font-size: 18px;
+    border-radius: 5px;
+
+}
+.price-text{
+    font-size: 12px;
+}

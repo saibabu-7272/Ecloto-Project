@@ -1,0 +1,24 @@
+.product-card{
+    height:150px;
+    width:250px;
+    background-color: #ffffff;
+    padding:10px;
+    border-radius: 5px;
+}
+.add-cart-btn{
+    background-color: blue;
+    color:#ffffff;
+    height: 30px;
+    width:100%;
+    border:none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: 500;
+    box-shadow: 0px 0px 5px #a09e9e;
+}
+.add-cart-btn:hover{
+    background-color: green;
+}
+.product-name{
+    font-weight: 600;
+}
