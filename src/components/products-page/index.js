@@ -30,7 +30,7 @@ const ProductsPage = () => {
         }else{
             return eachProduct
         }} ))
-        console.log(products)
+        
     }
 
     const onDecreaseProductQuantity = (id) =>{
@@ -39,7 +39,7 @@ const ProductsPage = () => {
         }else{
             return eachProduct
         }} ))
-        console.log(products)
+        
     }
 
     const cartList = getCartList()
